@@ -4,5 +4,5 @@
    string
  end
 
-parrot("Squawk")
+parrot("Pretty bird!")
 parrot
