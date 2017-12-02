@@ -4,4 +4,5 @@
    puts string
  end
 
+parrot("Squawk")
 parrot
